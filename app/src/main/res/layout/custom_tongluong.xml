@@ -44,11 +44,13 @@
                 android:layout_width="120dp"
                 android:layout_height="40dp"
                 android:text="Phòng ban" />
+
             <TextView
                 android:id="@+id/tvTenPhongBan"
                 style="@style/tv_noidung"
-                android:layout_width="match_parent"
+                android:layout_width="193dp"
                 android:layout_height="40dp" />
+
         </LinearLayout>
 
         <LinearLayout
@@ -78,12 +80,15 @@
                 android:layout_width="120dp"
                 android:layout_height="40dp"
                 android:text="Tổng lương" />
+
             <TextView
                 android:id="@+id/tvThucLanh"
                 style="@style/tv_noidung"
-                android:layout_width="match_parent"
-                android:layout_height="40dp" />
+                android:layout_width="223dp"
+                android:layout_height="43dp" />
+
         </LinearLayout>
+
     </LinearLayout>
 
 </LinearLayout>

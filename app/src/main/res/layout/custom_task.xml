@@ -90,6 +90,14 @@
             android:layout_marginBottom="5dp"
             android:background="@drawable/delete"
             />
+        <TextView
+            android:fontFamily="@font/playfairdisplay_italic"
+            style="@style/tv_noidung"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:text="(Đang update tính năng này)" />
     </LinearLayout>
 
 </LinearLayout>

@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/playfairdisplay_italic"
-        android:text="Công Ty TNHH An Việt"
+        android:text="Công Ty TNHH DVHN"
         android:textSize="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
